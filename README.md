@@ -10,5 +10,3 @@ Originally written by Ryan Dahl, the creator of Node.js.
 ## Deploying to HPE Helion Stackato
 
     cf push
-
-	testing this app
